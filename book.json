@@ -1,0 +1,11 @@
+{
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "variables": {
+        "host": "http://xia.1234x.com/web/index.php",
+        "app_host": "http://xia.1234x.com/app/index.php",
+        "token_expired": "30天",
+        "page_size": 10
+    }
+}
