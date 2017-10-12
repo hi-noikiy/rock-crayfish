@@ -21,6 +21,7 @@
 * [商品分类](shang-pin-jie-kou/shang-pin-fen-lei.md)
 * [商品列表](shang-pin-jie-kou/shang-pin-lie-biao.md)
 * [下单接口](shang-pin-jie-kou/xia-dan-jie-kou.md)
+* [支付方式接口](shang-pin-jie-kou/shang-jia-support-pay.md)
 * [验证优惠券码](shang-pin-jie-kou/yan-zheng-you-hui-quan-ma.md)
 * [跑腿公司](shang-pin-jie-kou/pao-tui-gong-si.md)
 
