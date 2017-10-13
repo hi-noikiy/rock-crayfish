@@ -33,7 +33,7 @@ POST
 | tel | string | N | 收货人电话 |
 | address | string | N | 收货地址 |
 | remark | string | N | 订单备注 |
-| voucher | int | N | 优惠券ID |
+| voucher | string | N | 优惠券ID |
 | voucher_number | int | N | 优惠券数量 |
 | goods | string | Y | 订单商品列表 |
 
@@ -49,7 +49,7 @@ POST
     "tel": "13800138000",
     "address": "广东省梅州市天河区车陂高地大街121号",
     "remark": "微辣",
-    "voucher": "SN87788787",
+    "voucher": "121",
     "voucher_number": 2,
     "goods": "[{"id":"69","total":1},{"id":"70","total":1}]"
 }
