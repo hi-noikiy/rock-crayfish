@@ -44,6 +44,7 @@ GET
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 优惠券ID |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gmoney | float | 优惠券满减 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dmoney | float | 优惠券减扣金额 |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total | int | 用户总数 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multiple | int | 是否允许使用多份：0表示不允许，1表示允许 |
 
 
