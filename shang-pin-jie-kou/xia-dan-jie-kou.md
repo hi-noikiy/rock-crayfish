@@ -33,7 +33,7 @@ POST
 | tel | string | N | 收货人电话 |
 | address | string | N | 收货地址 |
 | remark | string | N | 订单备注 |
-| voucher | string | N | 优惠券码 |
+| voucher | int | N | 优惠券ID |
 | voucher_number | int | N | 优惠券数量 |
 | goods | string | Y | 订单商品列表 |
 
