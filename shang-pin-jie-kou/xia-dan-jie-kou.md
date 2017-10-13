@@ -34,6 +34,7 @@ POST
 | address | string | N | 收货地址 |
 | remark | string | N | 订单备注 |
 | voucher | string | N | 优惠券码 |
+| voucher_number | int | N | 优惠券数量 |
 | goods | string | Y | 订单商品列表 |
 
 - goods: JSON化订单商品数据: [{"id":"商品ID", "total": "购买数量"}, {...}]。
