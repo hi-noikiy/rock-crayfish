@@ -55,7 +55,7 @@ GET
     "code": 0,
     "message": "请求成功",
     "data": {
-        "id": 123,
+        "id": 11,
         "gmoney": 100.00,
         "dmoney": 10.00
     }
