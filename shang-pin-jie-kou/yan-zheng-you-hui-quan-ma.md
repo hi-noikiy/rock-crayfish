@@ -41,7 +41,7 @@ GET
 | code | int | 请求码 |
 | message | string | 请求返回信息 |
 | data  | object | 优惠券信息 |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 用户优惠券ID |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 优惠券ID |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gmoney | float | 优惠券满减 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dmoney | float | 优惠券减扣金额 |
 
