@@ -59,7 +59,8 @@ GET
     "data": {
         "id": 11,
         "gmoney": 100.00,
-        "dmoney": 10.00
+        "dmoney": 10.00,
+        "multiple": 0
     }
 }
 ```
