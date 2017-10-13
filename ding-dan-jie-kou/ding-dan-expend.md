@@ -59,7 +59,7 @@ GET
         "list": [
             {
                 "ordersn": "20171006536195525530",
-                "dateline": "2017-10-06",
+                "dateline": "2017-10-06 09:33:39",
                 "order_total_price": "252",
                 "discount_money": "0.00",
                 "totalprice": "252.00",
@@ -67,13 +67,25 @@ GET
             },
 			{
                 "ordersn": "20170930438944510402",
-                "dateline": "2017-09-30",
+                "dateline": "2017-09-30 11:48:13",
                 "order_total_price": "58",
                 "discount_money": "0.00",
                 "totalprice": "58.00",
                 "paytype": "未付款"
             }
 		]
+    }
+}
+// 空数据返回格式
+{
+    "code": 0,
+    "message": "请求成功",
+    "data": {
+        "total_price": 0,
+        "total_online_price": 0,
+        "total_cash_price": 0,
+        "total_discount_price": 0,
+        "list": []
     }
 }
 ```
