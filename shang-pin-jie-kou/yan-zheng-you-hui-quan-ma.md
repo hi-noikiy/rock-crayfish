@@ -61,6 +61,7 @@ GET
         "id": 11,
         "gmoney": 100.00,
         "dmoney": 10.00,
+        "total": 10,
         "multiple": 0
     }
 }
