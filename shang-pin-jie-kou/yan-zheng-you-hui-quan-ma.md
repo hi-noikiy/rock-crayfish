@@ -45,7 +45,6 @@ GET
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gmoney | float | 优惠券满减 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dmoney | float | 优惠券减扣金额 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;multiple | int | 是否允许使用多份：0表示不允许，1表示允许 |
-- 优惠券ID：
 
 
 ### 返回结果示例
