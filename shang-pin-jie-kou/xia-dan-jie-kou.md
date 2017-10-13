@@ -50,6 +50,7 @@ POST
     "address": "广东省梅州市天河区车陂高地大街121号",
     "remark": "微辣",
     "voucher": "SN87788787",
+    "voucher_number": 2,
     "goods": "[{"id":"69","total":1},{"id":"70","total":1}]"
 }
 ```
