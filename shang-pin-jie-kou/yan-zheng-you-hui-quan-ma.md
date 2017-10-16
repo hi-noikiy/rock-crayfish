@@ -47,7 +47,6 @@ POST
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discount | float | 优惠券减扣金额 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total | int | 同类优惠券拥有总数 |
 
-
 ### 返回结果示例
 
 ---
