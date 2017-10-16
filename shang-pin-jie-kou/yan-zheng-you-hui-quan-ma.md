@@ -58,11 +58,8 @@ POST
     "code": 0,
     "message": "请求成功",
     "data": {
-        "id": 11,
-        "gmoney": 100.00,
-        "dmoney": 10.00,
-        "total": 10,
-        "multiple": 0
+        "discount": 666.00,
+        "total": 10
     }
 }
 ```
