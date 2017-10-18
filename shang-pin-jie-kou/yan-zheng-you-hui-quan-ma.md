@@ -45,7 +45,7 @@ POST
 | message | string | 请求返回信息 |
 | data  | object | 优惠券信息 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discount | float | 优惠券减扣金额 |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total | int | 同类优惠券拥有总数 |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;total | int | 最大使用数量 |
 
 ### 返回结果示例
 
