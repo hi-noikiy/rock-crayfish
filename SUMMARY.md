@@ -26,4 +26,5 @@
 * [验证优惠券码](shang-pin-jie-kou/yan-zheng-you-hui-quan-ma.md)
 * [跑腿公司](shang-pin-jie-kou/pao-tui-gong-si.md)
 * [生成优惠券二维码](shang-pin-jie-kou/sheng-cheng-you-hui-quan-er-wei-ma.md)
+* [获取优惠券二维码](shang-pin-jie-kou/huo-qu-you-hui-quan-er-wei-ma.md)
 
