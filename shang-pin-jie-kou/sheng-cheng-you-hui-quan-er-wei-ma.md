@@ -44,7 +44,7 @@ POST
 | code | int | 请求码 |
 | message | string | 请求返回信息 |
 | data  | object | 优惠券信息 |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discount | flag | 优惠券减扣金额 |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flag | string | 二维码唯一标识 |
 
 ### 返回结果示例
 
