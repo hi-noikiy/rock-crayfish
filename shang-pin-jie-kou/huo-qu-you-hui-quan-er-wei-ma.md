@@ -1,4 +1,4 @@
-### ?i=1&c=entry&storeid=3&a=api&do=check_voucher&m=weisrc_dish&flag=:flag
+### ?i=1&c=entry&storeid=3&a=api&do=check_voucher&m=weisrc_dish&flag=1
 
 ---
 
