@@ -54,7 +54,9 @@ GET
     "code": 0,
     "message": "请求成功",
     "data": {
-        "flag": "1508828223EReH33"
+        "coupon": "满100减10",
+        "discount": 10.00,
+        "number": 1
     }
 }
 ```
