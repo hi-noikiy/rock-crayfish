@@ -56,8 +56,7 @@ POST
     "code": 0,
     "message": "请求成功",
     "data": {
-        "discount": 666.00,
-        "limit": 3
+        "flag": "1508828223EReH33"
     }
 }
 ```
