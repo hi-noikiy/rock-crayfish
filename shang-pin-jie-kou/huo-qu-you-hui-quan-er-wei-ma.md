@@ -52,9 +52,7 @@ GET
     "code": 0,
     "message": "请求成功",
     "data": {
-        "coupon": "满100减10",
-        "discount": 10.00,
-        "number": 1
+        "qrcode": "http://xia.1234x.com/xxxx.png"
     }
 }
 ```
