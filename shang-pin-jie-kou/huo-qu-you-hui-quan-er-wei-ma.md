@@ -1,4 +1,4 @@
-### ?i=1&c=entry&storeid=3&a=api&do=check_voucher&m=weisrc_dish&flag=1
+### ?i=1&c=entry&storeid=3&a=api&do=voucher_qrcode&m=weisrc_dish&flag=1
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-[{{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=check_voucher&m=weisrc_dish&flag=111111]({{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=check_voucher&m=weisrc_dish&flag=11111)
+[{{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=voucher_qrcode&m=weisrc_dish&flag=1]({{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=voucher_qrcode&m=weisrc_dish&flag=1)
 
 ### 传输方式
 
