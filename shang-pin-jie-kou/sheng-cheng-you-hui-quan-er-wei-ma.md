@@ -8,7 +8,7 @@
 
 ---
 
-[{{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=check_voucher&m=weisrc_dish]({{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=check_voucher&m=weisrc_dish)
+[{{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=voucher_qrcode&m=weisrc_dish]({{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=voucher_qrcode&m=weisrc_dish)
 
 ### 传输方式
 
