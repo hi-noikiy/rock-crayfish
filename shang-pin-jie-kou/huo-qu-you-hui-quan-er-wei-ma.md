@@ -41,7 +41,7 @@ GET
 | code | int | 请求码 |
 | message | string | 请求返回信息 |
 | data  | object | 优惠券信息 |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flag | string | 二维码唯一标识 |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coupon | string | 优惠券名称 |
 
 ### 返回结果示例
 
