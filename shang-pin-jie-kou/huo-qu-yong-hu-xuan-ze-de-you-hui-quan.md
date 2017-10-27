@@ -56,6 +56,7 @@ GET
     "message": "请求成功",
     "data": {
         "coupon": "满100减10",
+        "sncode": "SN80846662886",
         "discount": 10.00,
         "number": 1
     }
