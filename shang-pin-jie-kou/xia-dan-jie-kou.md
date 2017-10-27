@@ -52,7 +52,8 @@ POST
     "remark": "微辣",
     "voucher": "SN24463454090",
     "voucher_number": 2,
-    "goods": "[{"id":"69","total":1},{"id":"70","total":1}]"
+    "goods": "[{"id":"69","total":1},{"id":"70","total":1}]",
+    "freightage": 5
 }
 ```
 
