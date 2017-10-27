@@ -36,6 +36,7 @@ POST
 | action | string | Y | 操作：<br />cancel: 取消订单<br />confirm: 接单<br />dispatching: 配送<br />finish: 完成 |
 | id    | int   | Y   | 订单ID  |
 |dispatching_corp_id | int | N | 跑腿公司ID，操作配送的时候传该值 |
+| pay_type | int | N | 付款方式，操作“完成”的时候传该值 |
 
 ### 返回值
 
