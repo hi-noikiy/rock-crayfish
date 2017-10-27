@@ -42,6 +42,7 @@ GET
 | message | string | 请求返回信息 |
 | data  | object | 优惠券信息 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coupon | string | 优惠券名称 |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sncode | string | 优惠券码 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discount | float | 优惠金额 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number | int | 使用数量 |
 
