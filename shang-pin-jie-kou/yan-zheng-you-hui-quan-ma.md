@@ -61,9 +61,11 @@ POST
     "code": 0,
     "message": "请求成功",
     "data": {
+        "coupon": "满100减10",
+        "sncode": "SN94289887901",
         "discount": 666.00,
-        "limit": 3,
-        "sncode": "SN94289887901"
+        "number": 1,
+        "limit": 3        
     }
 }
 ```
