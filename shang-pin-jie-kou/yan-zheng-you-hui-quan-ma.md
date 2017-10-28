@@ -46,6 +46,7 @@ POST
 | data  | object | 优惠券信息 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discount | float | 优惠券减扣金额 |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;limit | int | 最大使用数量 |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sncode | string | 优惠券码 |
 
 ### 返回结果示例
 
