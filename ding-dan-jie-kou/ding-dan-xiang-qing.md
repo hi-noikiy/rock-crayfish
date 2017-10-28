@@ -90,6 +90,7 @@ GET
         "dateline": "2017-08-14 15:41:49",
         "totalnum": "7",
         "discount": 0,
+        "pay_type": "现金支付",
         "status": "0",
         "remark": "多辣，少油",
         "dispatch_id": 1,
