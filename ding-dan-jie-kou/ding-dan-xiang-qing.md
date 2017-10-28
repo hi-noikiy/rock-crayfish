@@ -56,6 +56,7 @@ GET
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dateline | string | 下单时间 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;totalnum | string | 商品总数量 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;discount_money | string | 折扣 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pay_type | string | 付款方式 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;status | string | 订单状态 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;remark | string | 订单备注 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dispatch_id | int | 选择的跑腿公司ID |
