@@ -59,7 +59,8 @@ POST
     "message": "请求成功",
     "data": {
         "discount": 666.00,
-        "limit": 3
+        "limit": 3,
+        "sncode": "SN94289887901"
     }
 }
 ```
