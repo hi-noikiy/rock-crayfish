@@ -17,9 +17,6 @@ websocket
 | 字段 | 类型 | 说明 |
 | :--- | :---: | :--- |
 | task | string | 当前值为: new\_order |
-| message | string | 请求返回状态信息 |
-| data | int | 是否有新订单：1有，0无 |
-| total | int | 待处理订单总数 |
 
 * 有新订单，提示语音。
 
@@ -29,10 +26,7 @@ websocket
 
 ```js
 {
-    "code": 0,
-    "message": "请求成功",
-    "data": 1,
-    "total": 999
+    "task": "new_order"
 }
 ```
 
