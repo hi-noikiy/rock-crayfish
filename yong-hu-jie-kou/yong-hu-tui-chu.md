@@ -8,7 +8,9 @@
 
 ---
 
-[{{ book.host }}?c=user&a=api&do=logout]({{ book.host }}?c=user&a=api&do=logout)
+[{{ book.host }}?i=1&c=entry&storeid=3&a=api&do=user_op&act=logout&m=weisrc_dish
+]({{ book.host }}?i=1&c=entry&storeid=3&a=api&do=user_op&act=logout&m=weisrc_dish
+)
 
 ### 传输方式
 
