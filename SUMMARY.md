@@ -16,6 +16,7 @@
 * [订单操作](ding-dan-jie-kou/ding-dan-qu-xiao.md)
 * [订单数据](ding-dan-jie-kou/ding-dan-expend.md)
 * [新订单检测（已废弃）](ding-dan-jie-kou/xin-ding-dan-jian-ce.md)
+* [新订单通知](ding-dan-jie-kou/xin-ding-dan-tong-zhi.md)
 
 ## 门店下单接口
 
