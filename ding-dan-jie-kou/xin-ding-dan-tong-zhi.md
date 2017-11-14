@@ -4,18 +4,12 @@
 
 有新订单推送通知门店主屏设备。
 
-### URL
-
----
-
-[{{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=order_refresh&m=weisrc_dish]({{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=order_refresh&m=weisrc_dish)
-
 
 ### 传输方式
 
 ---
 
-GET
+websocket
 
 ### 是否需要登录
 
