@@ -38,7 +38,7 @@ POST
 | 参数名 | 类型 | 非空 | 说明 |
 | :---: | :---: | :---: | :--- |
 | username | string | Y | 登录账号       |
-| password | string | N | 登录密码       |
+| password | string | Y | 登录密码       |
 
 
 ### 返回值
