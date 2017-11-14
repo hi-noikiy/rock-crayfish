@@ -1,4 +1,4 @@
-### ?c=user&a=api&do=logout
+### i=1&c=entry&storeid=3&a=api&do=user_op&act=logout&m=weisrc_dish
 
 ---
 
