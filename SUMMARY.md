@@ -32,5 +32,5 @@
 
 ## 门店接口
 
-* [获取设备列表](she-bei-jie-kou/huo-qu-she-bei-lie-biao.md)
+* [获取门店配置](she-bei-jie-kou/huo-qu-she-bei-lie-biao.md)
 
