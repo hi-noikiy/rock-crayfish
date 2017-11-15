@@ -55,12 +55,19 @@ GET
     'message': '请求成功',
     'data': [
         {
-            'id': 1,
-            'device': 'RX171108001A'
-        },
-        {
-            'id': 2,
-            'device': 'RX171108002A'
+            'id': 3,
+            'title': '洛克的虾',
+            'address': '兴宁市和平路5号(行政服务中心对面)',
+            'devices': [
+                {
+                    'id': 1,
+                    'device': 'RX171108001A'
+                },
+                {
+                    'id': 2,
+                    'device': 'RX171108002A'
+                }
+            ]
         }
     ]
 }
