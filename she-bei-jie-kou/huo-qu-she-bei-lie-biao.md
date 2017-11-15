@@ -56,11 +56,11 @@ GET
     'data': [
         {
             'id': 1,
-            'device': '特色小龙虾'
+            'device': 'RX171108001A'
         },
         {
             'id': 2,
-            'device': '凉拌类'
+            'device': 'RX171108001A'
         }
     ]
 }
