@@ -30,3 +30,7 @@
 * [获取优惠券二维码](shang-pin-jie-kou/huo-qu-you-hui-quan-er-wei-ma.md)
 * [获取用户选择的优惠券](shang-pin-jie-kou/huo-qu-yong-hu-xuan-ze-de-you-hui-quan.md)
 
+## 设备接口
+
+* [获取设备列表](she-bei-jie-kou/huo-qu-she-bei-lie-biao.md)
+
