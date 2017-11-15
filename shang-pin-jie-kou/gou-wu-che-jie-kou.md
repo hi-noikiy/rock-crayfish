@@ -8,7 +8,7 @@
 
 ---
 
-[{{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=category&m=weisrc_dish]({{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=category&m=weisrc_dish)
+[{{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=cart&m=weisrc_dish]({{ book.app_host }}?i=1&c=entry&storeid=3&a=api&do=cart&m=weisrc_dish)
 
 
 ### 传输方式
