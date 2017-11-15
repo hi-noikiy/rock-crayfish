@@ -46,7 +46,7 @@ GET
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title | string | 门店名称 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address | string | 门店地址 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;devices | array | 门店设备列表 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address | string | 门店地址 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;device | string | 设备号 |
 
 
 ### 返回结果示例
