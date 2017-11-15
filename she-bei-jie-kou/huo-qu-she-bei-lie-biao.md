@@ -43,7 +43,7 @@ GET
 | message | string | 请求返回状态信息 |
 | data | array | 列表数据 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 设备ID     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name | string | 设备名称 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;device | string | 设备名称 |
 
 ### 返回结果示例
 
@@ -56,11 +56,11 @@ GET
     'data': [
         {
             'id': 1,
-            'name': '特色小龙虾'
+            'device': '特色小龙虾'
         },
         {
             'id': 2,
-            'name': '凉拌类'
+            'device': '凉拌类'
         }
     ]
 }
