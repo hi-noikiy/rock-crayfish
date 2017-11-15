@@ -42,9 +42,6 @@ POST
 | :--- | :---: | :--- |
 | code | int | 请求返回状态码 |
 | message | string | 请求返回状态信息 |
-| data | array | 商品分类列表数据 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 分类ID     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name | string | 分类名称 |
 
 ### 返回结果示例
 
