@@ -30,7 +30,6 @@ POST
 
 | 参数名 | 类型 | 非空 | 说明 |
 | :---: | :---: | :---: | :---: |
-| id | int | Y | 门店ID |
 | device | string | Y | 设备号 |
 
 
@@ -44,10 +43,6 @@ POST
 | message | string | 请求返回状态信息 |
 | data | array | 列表数据 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 门店ID     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title | string | 门店名称 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address | string | 门店地址 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;devices | array | 门店设备列表 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title | string | 设备号 |
 
 
 ### 返回结果示例
