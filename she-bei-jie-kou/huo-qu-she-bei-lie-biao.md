@@ -45,7 +45,7 @@ GET
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 门店ID     |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title | string | 门店名称 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address | string | 门店地址 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address | string | 门店地址 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;devices | array | 门店设备列表 |
 
 ### 返回结果示例
 
