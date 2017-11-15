@@ -43,7 +43,8 @@ GET
 | message | string | 请求返回状态信息 |
 | data | array | 列表数据 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 门店ID     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;device | string | 设备号 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title | string | 门店名称 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;address | string | 门店地址 |
 
 ### 返回结果示例
 
