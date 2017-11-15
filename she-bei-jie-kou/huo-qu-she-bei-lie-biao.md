@@ -1,4 +1,4 @@
-### ?i=1&c=entry&storeid=3&a=api&do=category&m=weisrc_dish
+### ?i=1&c=entry&storeid=3&a=api&do=device&m=weisrc_dish
 
 ---
 
