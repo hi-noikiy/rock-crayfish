@@ -41,7 +41,7 @@ POST
 | :--- | :---: | :--- |
 | code | int | 请求返回状态码 |
 | message | string | 请求返回状态信息 |
-| data | array | 列表数据 |
+| data | object | 数据 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 门店ID     |
 
 
