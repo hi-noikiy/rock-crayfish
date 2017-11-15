@@ -43,7 +43,7 @@ GET
 | message | string | 请求返回状态信息 |
 | data | array | 列表数据 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;id | int | 设备ID     |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;device | string | 设备名称 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;device | string | 设备号 |
 
 ### 返回结果示例
 
